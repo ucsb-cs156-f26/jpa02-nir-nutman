@@ -82,7 +82,7 @@ public class Team {
      */
     @Override
     public String toString() {
-        return "Team(name=" + this.name + ", members=" + this.members + ")";
+        return "Team{name=" + this.name + ", members=" + this.members + "}";
     }
 
     /**
