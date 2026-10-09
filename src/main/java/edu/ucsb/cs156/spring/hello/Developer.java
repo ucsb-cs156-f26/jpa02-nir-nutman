@@ -40,7 +40,7 @@ public class Developer {
         team.addMember("Anna");
         team.addMember("Deserae");
         team.addMember("Kathleen");
-        team.addMember("Issac");
+        team.addMember("Issac G");
         return team;
     }
 }
